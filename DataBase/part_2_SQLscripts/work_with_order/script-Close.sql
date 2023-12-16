@@ -1,2 +1,2 @@
 UPDATE public."Orders" SET status = 'закрыт'::character varying 
-WHERE order_id = 9
+WHERE order_id = 9;
